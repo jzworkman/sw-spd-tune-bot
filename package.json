@@ -1,0 +1,15 @@
+{
+  "name": "sw_spd_tuning",
+  "version": "1.0.0",
+  "description": "SW Spd Tuning Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Joe Workman",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.7.1"
+  }
+}
