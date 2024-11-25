@@ -1,0 +1,10 @@
+Privacy Policy for SW Spd Tuning Bot
+
+This Privacy Policy governs the collection, use, and sharing of personal information by SW Spd Tuning, a Discord bot developed by Joe Workman. By using SW Spd Tuning, you agree to the terms of this Privacy Policy.
+
+Information We Collect
+
+We collect information that you provide to us through your use of the bot, such as your Discord user ID and username, server and channel information, and message content via commands sent to the bot. We may also collect usage data, such as the frequency and duration of your use of the bot.
+
+How We Use Your Information
+Information collected via bot commands exists only for the duration of the command.  SW Spd Tuning bot does not have a database, and no information is stored beyond the request lifecycle of the commands
